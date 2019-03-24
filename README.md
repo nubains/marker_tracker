@@ -7,7 +7,7 @@ This is an iPhone app that tracks a circular marker using the rear facing camera
 
 The circular marker that will be tracked is shown below:
 
-![Marker](https://octodex.github.com/images/marker.png)
+![Marker](https://octodex.github.com/marker_tracker/marker_tracker/marker.png)
 
 Step 1: C++ Implementation
 ---
