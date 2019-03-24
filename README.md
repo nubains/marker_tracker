@@ -30,4 +30,4 @@ To use the Xcode project, download OpenCV C++ on your computer and set up the Xc
 
 The Unity project can be opened with Unity, but the OpenCVForUnity plugin must be added to Assets for it to function.
 
-The iPhone app can be loaded onto your iPhone by connecting your phone to your computer and opening Xcode. Then, in Xcode, select "Devices and Simulators" from the Window tab and drag and drop the .ipa file to the installed apps area under your phone. 
+The iPhone app can be loaded onto your iPhone by connecting your phone to your computer and opening Xcode. Then, in Xcode, select "Devices and Simulators" from the Window tab and drag and drop the .ipa file to the installed apps area under your phone. In the app, the change camera button in the top left corner can be used to switch between the HSV feed and the normal feed. This can be used to see the thresholding in action and for optimizing the threshold values to your camera. 
