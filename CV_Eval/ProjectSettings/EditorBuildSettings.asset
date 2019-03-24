@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/OpenCVForUnityExample.unity
+    guid: c1089b6c5cb5b0742be92732f5bdc172
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/ShowLicense.unity
+    guid: eb34810e3e19dc345b1f0be0bf793d5f
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/ShowSystemInfo.unity
+    guid: 42ae57bf137440946a42849763a28437
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/Advanced/AlphaBlendingExample/AlphaBlendingExample.unity
+    guid: caa7411245a5de04f9933825040daea2
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/Advanced/ComicFilterExample/ComicFilterExample.unity
+    guid: 7a8897045abc2a449b1a5b34ed58315a
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/Advanced/GreenScreenExample/GreenScreenExample.unity
+    guid: 593e6280a9f101b4fbf4baeed9034b77
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/Advanced/HandPoseEstimationExample/HandPoseEstimationExample.unity
+    guid: 208ac987d76a61e48b551f8d55a2cfd5
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/Advanced/MatToTextureInRenderThreadExample/MatToTextureInRenderThreadExample.unity
+    guid: 4bbd70fe8dfbee54a9bfa108fd5aea7c
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/ContribModules/aruco/ArUcoExample/ArUcoCameraCalibrationExample.unity
+    guid: b811885e9cec5f5438428d512d9c1316
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/ContribModules/aruco/ArUcoExample/ArUcoCreateMarkerExample.unity
+    guid: f7d709cffc100ff4296ba0c543fe0778
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/ContribModules/aruco/ArUcoExample/ArUcoExample.unity
+    guid: 89e1e0e7cb778a9459dc29461ecb3007
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/ContribModules/aruco/ArUcoExample/ArUcoWebCamTextureExample.unity
+    guid: 341aba2f1628bc049af49cd0dda3a513
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/Advanced/MultiObjectTrackingBasedOnColorExample/MultiObjectTrackingBasedOnColorExample.unity
+    guid: 5a1c56649093e524789f6393e0ba99c1
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/Basic/MatBasicProcessingExample/MatBasicProcessingExample.unity
+    guid: 021fb2d52c0f146468dc1d60156f9762
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/ContribModules/face/FaceMarkExample/FaceMarkExample.unity
+    guid: 6be2475499ae7704bb49ffdcd3e70421
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/Basic/Texture2DToMatExample/Texture2DToMatExample.unity
+    guid: b94bd88ac03377444b5e30870dfd377a
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/ContribModules/face/FaceRecognizerExample/FaceRecognizerExample.unity
+    guid: dbdc400fca76d4c48be28d420e9567a9
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/ContribModules/shape/ThinPlateSplineShapeTransformerExample/ThinPlateSplineShapeTransformerExample.unity
+    guid: d23635bedf4d7a1428ac358b4f79a103
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/ContribModules/text/TextExample/TextDetectionExample.unity
+    guid: d11b60e4a3b274648be03cedd4b584f2
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/calib3d/StereoBMExample/StereoBMExample.unity
+    guid: e2d0758f5aea81b4b8c10c9017ad96e3
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/ContribModules/text/TextExample/TextRecognitionExample.unity
+    guid: d5aa146cb845fa9498d5c811cca0c21f
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/ContribModules/tracking/TrackingExample/TrackingExample.unity
+    guid: 52d8921b70cdf1949b810e5c7ddab47a
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/core/PCAExample/PCAExample.unity
+    guid: 056c7d76f1ec24144b2688fb83bb24e9
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/Basic/WebCamTextureToMatExample/WebCamTextureToMatExample.unity
+    guid: 8d8da490363d5454994df36ee27f1ddb
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/dnn/CaffeExample/ResnetSSDFaceDetectionExample.unity
+    guid: f3c7df9da45c1e645b273e39e98ed8de
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/ContribModules/plot/PlotExample/PlotExample.unity
+    guid: 72e09702e6a1b364783a086e4b58dff3
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/dnn/CaffeExample/MobileNetSSDExample.unity
+    guid: 36fa8f9a946942d49a29ede28ed14320
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/imgproc/DrawingExample/DrawingExample.unity
+    guid: b062cf2b7d39d39479c9fc123d0b3b2b
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/imgproc/HoughLinesPExample/HoughLinesPExample.unity
+    guid: 856fdfce392216c4087f54d75447eb85
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/dnn/TensorFlowExample/MaskRCNNExample.unity
+    guid: 5b3f6c3677ed44043bba523a8213f03e
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/imgproc/ThresholdExample/ThresholdExample.unity
+    guid: 58b11a7e9e914984d924923d0847825c
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/imgproc/MatchShapesExample/MatchShapesExample.unity
+    guid: 4225fd0f43c1783479d8605bc554b142
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/imgproc/GrabCutExample/GrabCutExample.unity
+    guid: 444fe176339711f4f95608bb267c1fec
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/imgproc/ConvexHullExample/ConvexHullExample.unity
+    guid: 8eaa86e409870a5488e0c6d9ad5d5027
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/imgproc/MatchTemplateExample/MatchTemplateExample.unity
+    guid: 2f9f5372b70d47445bd79c988efb0724
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/imgproc/WrapPerspectiveExample/WrapPerspectiveExample.unity
+    guid: 0d99bc8e46af63640943285d7e9afdcc
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/imgproc/ConnectedComponentsExample/ConnectedComponentsExample.unity
+    guid: f321aad919a65314abde091d39c4f871
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/imgcodecs/ImwriteScreenCaptureExample/ImwriteScreenCaptureExample.unity
+    guid: 7a13aa9591357b548b7aba2bef8f4770
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/dnn/TensorFlowExample/TensorFlowWebCamTextureExample.unity
+    guid: b07aa22eb14fe754e8def5a86d57a1c6
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/dnn/YoloExample/YoloObjectDetectionExample.unity
+    guid: bb8d876ac663ac54ea7df06fb74ac495
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/dnn/YoloExample/YoloObjectDetectionWebCamTextureExample.unity
+    guid: 6d4be42264dda2f4092a25e1ae19f2c6
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/dnn/CaffeExample/OpenPoseExample.unity
+    guid: ed60724950a60704c81c96468c619092
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/MainModules/dnn/CaffeExample/MobileNetSSDWebCamTextureExample.unity
+    guid: b385dc6665ff3b846843496a9ba22eb0
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/Basic/WebCamTextureToMatHelperExample/WebCamTextureToMatHelperExample.unity
+    guid: 67614e830c411104382f7bba2c0df89c
+  - enabled: 0
+    path: Assets/OpenCVForUnity/Examples/Advanced/PolygonFilterExample/PolygonFilterExample.unity
+    guid: 25919b317f23af642b03bfbc41105a0f
+  m_configObjects: {}
