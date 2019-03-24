@@ -7,7 +7,7 @@ This is an iPhone app that tracks a circular marker using the rear facing camera
 
 The circular marker that will be tracked is shown below:
 
-![alt text](https://raw.githubusercontent.com/nubainsoomro/marker_tracker/master/marker_tracker/marker.png)
+![alt text](https://raw.githubusercontent.com/nubainsoomro/marker_tracker/marker_tracker/marker.png)
 
 
 Step 1: C++ Implementation
